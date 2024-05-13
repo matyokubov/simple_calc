@@ -1,9 +1,3 @@
-"""
-Calculator:
-Program author: Matyoqubov Firdavs
-Create: 04.08.2020
-"""
-
 try:
     from tkinter import *
     from tkinter import messagebox
